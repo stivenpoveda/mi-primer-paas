@@ -1,0 +1,12 @@
+{
+  "name": "mi-primer-paas",
+  "version": "1.0.0",
+  "description": "Laboratorio de PaaS para Cloud Computing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
